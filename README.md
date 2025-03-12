@@ -31,6 +31,3 @@ Predict DON concentration in corn samples using hyperspectral imaging data.
 - MAE
 - RMSE
 - R² Score
-
-## Submission Info
-Submit the GitHub repo link to: satyam.kumar@imagoai.com
